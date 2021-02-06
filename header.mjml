@@ -1,0 +1,14 @@
+<mj-section>		
+  <mj-column>
+    <mj-image src="https://i.imgur.com/jhutMJt.png" padding="0px 0px 0px 0px" align="center" href="https://ujc.org.br/" border="0px"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section>		
+  <mj-column  background-color="#99070C">
+    <mj-text align="center" font-size="14px" color="#FFFFFF" font-family="Montserrat, Helvetica">	Newsletter UJC - Niterói Nº4/2021 – 05/02/2021
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+

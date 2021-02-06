@@ -1,0 +1,16 @@
+<mj-section>
+  <mj-column width="60%" vertical-align="middle">	
+    <mj-button align="left" text-align="left" font-family="Montserrat, Helvetica" color="#99070C" font-size="18px" font-weight="800" inner-padding="0px" background-color="#FFFFFF" href="https://link-para-a-publicacao.com.br"> Título</mj-button>
+    <mj-text align="justify" font-family="Open Sans, Tahoma"  font-size="13px" color="#000000"> Texto breve sobre a publicação </mj-text>
+  </mj-column>
+  
+  <mj-column width="35%" vertical-align="middle">
+    <mj-image src="https://i.imgur.com/Xx1soND.png" href="https://link-para-a-publicacao.com.br" align="center"></mj-image>
+ 
+  </mj-column>  
+</mj-section>
+
+<mj-section>
+	<mj-column>
+  	<mj-divider border-width = "1px" width="240px" border-color="#A0A0A0"></mj-divider>
+  </mj-column>

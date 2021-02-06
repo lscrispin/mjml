@@ -1,0 +1,28 @@
+<mj-section background-color="#EBB71B">
+  <mj-column width="30%" vertical-align="middle">	
+    <mj-image src="https://i.imgur.com/MquWQCB.png" href="https://pcb.org.br/portal2/category/s10-internacional/america-latina/s8-brasil/s4-pcb/c140-jornal-o-poder-popular/" padding="0px"></mj-image>
+  </mj-column>
+  <mj-column width="45%" vertical-align="middle">
+    <mj-text align="center" font-family="Montserrat, Helvetica" color="#99070C" font-size="24px" font-weight="bold" css-class="sombra"> QUER LER MAIS? </mj-text>
+    <mj-button text-align="center" font-family="Montserrat,Helvetica" font-weight="bold" font-size="16px" color="#000000" inner-padding="0" background-color="#EBB71B" href="https://pcb.org.br/portal2/category/s10-internacional/america-latina/s8-brasil/s4-pcb/c140-jornal-o-poder-popular/">	 CLIQUE AQUI e baixe já a última edição do Jornal O Poder Popular, órgão oficial do PCB! </mj-button>
+  </mj-column>
+  <mj-column width="25%" vertical-align="middle">
+    <mj-image src="https://i.imgur.com/2nQexIL.png" href="https://pcb.org.br/portal2/category/s10-internacional/america-latina/s8-brasil/s4-pcb/c140-jornal-o-poder-popular/" padding="6px"></mj-image>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#99070C">
+  <mj-column>
+    <mj-text align="center" color="#FFFFFF" font-weight="bold" font-family="Montserrat, Helvetica" font-size="20px">SIGA NOSSAS REDES SOCIAIS!</mj-text>
+  <mj-table>
+          <tr>
+            <td><a href="https://www.facebook.com/ujcniteroi"><img src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" width="40" style="display:block; margin: auto;" ></a></td>
+            <td><a href="https://www.instagram.com/ujcniteroi/"><img src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png" width="40" style="display:block; margin: auto;" ></a></td>
+          </tr>
+        </mj-table>
+  </mj-column>
+</mj-section>
+<mj-section>
+	<mj-column>
+    <mj-button href="https://forms.gle/UZhMSPeQoyKNFoqR9">Deixar de assinar</mj-button>
+  </mj-column>
+</mj-section>
